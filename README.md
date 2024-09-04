@@ -4,7 +4,8 @@ Habilidades de desenvolvimento de software referem-se ao conjunto de competênci
 
 Muitos aspectos estão envolvidos no desenvolvimento de software funcional e de qualidade. Esta disciplina tem o objetivo de criar um projeto de software onde estudantes formam times ágeis de desenvolvimento.
 
-Disciplina Engenharia de Software 2024/01 - CIC - IFPR
+Disciplina Engenharia de Software - Ciência da Computação - IFPR
+Profa. Lauriana Paludo
 
 
 <!--
